@@ -1,1 +1,1 @@
-# stock-researcher
+#SmartFolio-Tracker
